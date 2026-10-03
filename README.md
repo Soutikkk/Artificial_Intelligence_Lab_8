@@ -91,9 +91,6 @@ Through these programs, the following concepts are explored:
 * Machine learning-based forecasting
 * Forecast evaluation and multi-step prediction
 
-## 👨‍💻 Author
-
-**Soutik**
 
 GitHub: [@Soutikkk](https://github.com/Soutikkk)
 
